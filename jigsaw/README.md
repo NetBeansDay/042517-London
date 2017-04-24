@@ -11,7 +11,7 @@ http://bits.netbeans.org/download/trunk/nightly/latest/
    1. In "netbeans.conf", point "netbeans_jdkhome" to the location of the JDK installation:
 e.g., "C:\Program Files\Java\jdk-9"
    1. Start NetBeans IDE.
-   1. Areas to play with relate to Jigsaw, JLink, and JShell.
+   1. Areas to play with that relate to JShell, Jigsaw, and JLink.
       - http://cr.openjdk.java.net/~mr/jigsaw/spec/lang-vm.html
       - http://cr.openjdk.java.net/~rfield/tutorial/JShellTutorial.html
       - http://openjdk.java.net/projects/jigsaw/quick-start
