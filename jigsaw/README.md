@@ -16,6 +16,8 @@ e.g., "C:\Program Files\Java\jdk-9"
       - http://openjdk.java.net/projects/jigsaw/quick-start
       - https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
 
+You won't be able to do all the tasks below in an hour, just pick one or two that you find most interesting.
+
 ## JShell
 
 Go to Tools | Open Java Platform Shell.
