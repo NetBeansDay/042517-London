@@ -12,6 +12,7 @@ http://bits.netbeans.org/download/trunk/nightly/latest/
 e.g., "C:\Program Files\Java\jdk-9"
    1. Start NetBeans IDE.
    1. Areas to play with relate to Jigsaw, JLink, and JShell.
+      - http://cr.openjdk.java.net/~mr/jigsaw/spec/lang-vm.html
       - http://openjdk.java.net/projects/jigsaw/quick-start
       - https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
 
@@ -48,6 +49,9 @@ Right-click a project, go to Properties | Packaging:
 
 Read: http://openjdk.java.net/projects/jigsaw/quick-start#services
 
-Examine the samples: https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
+Try to reproduce the Services scenario discussed above, i.e., as follows:
 
+<img src="images/service-1.png"></img>
+
+Examine the samples: https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
 
