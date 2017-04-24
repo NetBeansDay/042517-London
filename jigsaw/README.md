@@ -11,4 +11,4 @@ e.g., "C:\Program Files\Java\jdk-9"
    1. Start NetBeans IDE.
    1. Areas to play with relate to Jigsaw, JLink, and JShell.
       - http://openjdk.java.net/projects/jigsaw/quick-start
-      - https://github.com/GeertjanWielenga/JigsawJavaModularProjectSamples
+      - https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
