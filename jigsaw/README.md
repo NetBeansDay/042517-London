@@ -26,6 +26,8 @@ Go to Tools | Open Java Platform Shell.
 
 <img src="images/jshell.png"></img>
 
+Enter some Java statements are press Enter. The Output window (Ctrl-4) shows the results.
+
 Use:
    * Code completion (Ctrl-Space).
    * Tweak the Java Shell Fonts & Colors in Tools | Options.
