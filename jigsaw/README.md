@@ -21,6 +21,11 @@ Go to Tools | Open Java Platform Shell.
 
 <img src="images/jshell.png"></img>
 
+Use:
+   * Code completion (Ctrl-Space).
+   * Tweak the Java Shell Fonts & Colors in Tools | Options.
+   * Right-click in the Java Shell and choose "text|x-repl|Save to Class".
+
 ## Jigsaw
 
 Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetings
