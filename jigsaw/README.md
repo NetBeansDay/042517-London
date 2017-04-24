@@ -26,7 +26,7 @@ Use:
    * Code completion (Ctrl-Space).
    * Tweak the Java Shell Fonts & Colors in Tools | Options.
    * Right-click in the Java Shell and choose "text|x-repl|Save to Class".
-   * Files.lines(Paths.get("C:\\Users\\gwieleng\\hello.txt")).forEach(s -> System.out.println(s));
+   * Files.lines(Paths.get("<path-to-file-with-lines>")).forEach(s -> System.out.println(s));
 
 ## Jigsaw
 
