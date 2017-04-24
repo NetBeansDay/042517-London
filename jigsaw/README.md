@@ -15,8 +15,9 @@ e.g., "C:\Program Files\Java\jdk-9"
       - http://cr.openjdk.java.net/~mr/jigsaw/spec/lang-vm.html
       - http://openjdk.java.net/projects/jigsaw/quick-start
       - https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
+      Some tasks to get your feet wet are outlined below.
 
-You won't be able to do all the tasks below in an hour, just pick one or two that you find most interesting.
+You won't be able to do all the suggested tasks below in an hour, just pick one or two that you find most interesting.
 
 ## JShell
 
