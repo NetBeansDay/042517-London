@@ -27,8 +27,10 @@ Go to Tools | Open Java Platform Shell.
 
 http://openjdk.java.net/projects/jigsaw/quick-start#linker
 
+Right-click a project, go to Properties | Packaging:
+
 <img src="images/jlink-1.png"></img>
-<p></p>
+<p>Build the project, switch to the Files window (Ctrl-2), and see the result:</p>
 <img src="images/jlink-2.png"></img>
 
 
