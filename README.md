@@ -4,7 +4,7 @@ Slides from NetBeans Day presentations in London, 25 April 2017.
 
    * 09:30 - 10:00: Registration in QA063
    * 10:00 - 10:30: News from the NetBeans Community (Geertjan Wielenga)
-   * 10:30 - 11:00: Graal: A Polyglot VM for a Polyglot IDE (Chris Seaton)
+   * 10:30 - 11:00: Graal: A Polyglot VM for a Polyglot IDE (Chris Seaton) <a href="https://github.com/NetBeansDay/042517-London/tree/master/graal">https://github.com/NetBeansDay/042517-London/tree/master/graal</a>
    * 11:00 - 12:00: NetBeans 101 (Zain Arshad & Mark Stephens)
    * 12:00 - 13:00: Lunch & Networking
    * 13:00 - 14:30: Workshops (The two below will run in parallel, you'll need to choose!)
