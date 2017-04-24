@@ -30,6 +30,8 @@ Use:
 
 Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetings
 
+Use the "Greetings" and "Greetings world" instructions above together with the new "Java Modular Project" project template:
+
 <img src="images/multi.png"></img>
 
 ## JLink
