@@ -8,7 +8,7 @@ Slides from NetBeans Day presentations in London, 25 April 2017.
    * 11:00 - 12:00: NetBeans 101 (Zain Arshad & Mark Stephens)
    * 12:00 - 13:00: Lunch & Networking
    * 13:00 - 14:30: Workshops (The two below will run in parallel, you'll need to choose!)
-    * - Baking a Java EE 8 Micro Pi (Andrew Pielage & Mike Croft)
+      - Baking a Java EE 8 Micro Pi (Andrew Pielage & Mike Croft)
     * - Diving into the Newest Jigsaw and Java 9 Features (John Kostaras, Geertjan Wielenga)
    * 14:30 - 15:00: Tea & Networking
    * 15:00 - 16:30: Workshops (The two below will run in parallel, you'll need to choose!)
