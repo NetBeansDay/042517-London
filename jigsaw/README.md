@@ -22,6 +22,8 @@ You won't be able to do all the suggested tasks below in an hour, just pick one 
 
 ## JShell
 
+Read: http://cr.openjdk.java.net/~rfield/tutorial/JShellTutorial.html
+
 Go to Tools | Open Java Platform Shell.
 
 <img src="images/jshell.png"></img>
