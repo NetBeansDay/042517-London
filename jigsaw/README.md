@@ -40,7 +40,7 @@ Use:
    * Code completion (Ctrl-Space).
    * Tweak the Java Shell Fonts & Colors in Tools | Options.
    * Right-click in the Java Shell and choose "text|x-repl|Save to Class".
-   * Files.lines(Paths.get("<path-to-file-with-lines>")).forEach(s -> System.out.println(s));
+   * Files.lines(Paths.get("&lt;path-to-file-with-lines&gt;")).forEach(s -> System.out.println(s));
 
 ## Jigsaw
 
