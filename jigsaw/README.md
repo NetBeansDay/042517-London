@@ -53,5 +53,9 @@ Try to reproduce the Services scenario discussed above, i.e., as follows:
 
 <img src="images/service-1.png"></img>
 
-Examine the samples: https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
+Similarly, modulerize the Anagram Game (i.e., the original unmodulerized version of the Anagram Game is in the Samples category of the New Project dialog):
+
+<img src="images/service-2.png"></img>
+
+For troubleshooting, the result is here: https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
 
