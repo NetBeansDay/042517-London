@@ -16,7 +16,12 @@ e.g., "C:\Program Files\Java\jdk-9"
       - http://cr.openjdk.java.net/~rfield/tutorial/JShellTutorial.html
       - http://openjdk.java.net/projects/jigsaw/quick-start
       - https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
-      
+    1. Related reading.
+      - https://www.meetup.com/Londonjavacommunity/events/238769022/
+      - http://javapapo.blogspot.nl/2017/04/java-9-module-system-jigsaw-ljcs.html
+      - https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns
+      - https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f
+
 Some tasks to get your feet wet are outlined below.
 
 You won't be able to do all the suggested tasks below in an hour, just pick one or two that you find most interesting.
