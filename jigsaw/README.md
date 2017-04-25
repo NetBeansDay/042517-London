@@ -54,12 +54,12 @@ Use the "Greetings" instructions above together with the "Java Application" proj
 <p>The result of following http://openjdk.java.net/projects/jigsaw/quick-start#greetings should be as follows:</p>
 <img src="images/jigsaw-1.png"></img>
 
-Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetingsworld
+Next, read: http://openjdk.java.net/projects/jigsaw/quick-start#greetingsworld
 
 Use the "Greetings world" instructions above together with the new "Java Modular Project" project template:
 
 <img src="images/multi.png"></img>
-<p></p>
+<p>the result of following http://openjdk.java.net/projects/jigsaw/quick-start#greetingsworld should be as follows:</p>
 <img src="images/jigsaw-2.png"></img>
 <p>Right-click the "module-info.java" in "org.greetings", choose open, and click "Graph" in the toolbar to visualize the dependencies:</p>
 <img src="images/graph-1.png"></img>
