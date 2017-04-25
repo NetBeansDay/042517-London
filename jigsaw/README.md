@@ -48,7 +48,13 @@ Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetings
 
 Use the "Greetings" and "Greetings world" instructions above together with the new "Java Modular Project" project template:
 
+<img src="images/single.png"></img>
+<p></p>
+<img src="images/jigsaw-1.png"></img>
+
 <img src="images/multi.png"></img>
+<p></p>
+<img src="images/jigsaw-2.png"></img>
 
 ## JLink
 
