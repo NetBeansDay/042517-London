@@ -64,7 +64,7 @@ Use the "Greetings world" instructions above together with the new "Java Modular
 
 Read: http://openjdk.java.net/projects/jigsaw/quick-start#linker
 
-Right-click a project, go to Properties | Packaging:
+Right-click a project, go to Properties | Packaging and select 'Create JLINK distribution':
 
 <img src="images/jlink-1.png"></img>
 <p>Build the project, switch to the Files window (Ctrl-2), and see the result:</p>
