@@ -49,7 +49,9 @@ Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetings
 Use the "Greetings" instructions above together with the "Java Application" project template:
 
 <img src="images/single.png"></img>
-<p></p>
+<p>In the New File dialog, find the template for the "module-info.java" file, when needed:</p>
+<img src="images/module-info.png"></img>
+<p>The result should be as follows:</p>
 <img src="images/jigsaw-1.png"></img>
 
 Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetingsworld
