@@ -46,11 +46,13 @@ Use:
 
 Read: http://openjdk.java.net/projects/jigsaw/quick-start#greetings
 
-Use the "Greetings" and "Greetings world" instructions above together with the new "Java Modular Project" project template:
+Use the "Greetings" instructions above together with the "Java Application" project template:
 
 <img src="images/single.png"></img>
 <p></p>
 <img src="images/jigsaw-1.png"></img>
+
+Use the "Greetings world" instructions above together with the new "Java Modular Project" project template:
 
 <img src="images/multi.png"></img>
 <p></p>
