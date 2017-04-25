@@ -59,6 +59,8 @@ Use the "Greetings world" instructions above together with the new "Java Modular
 <img src="images/multi.png"></img>
 <p></p>
 <img src="images/jigsaw-2.png"></img>
+<p>Right-click the "module-info.java" in "org.greetings", choose open, and click "Graph" in the toolbar to visualize the dependencies:</p>
+<img src="images/graph-1.png"></img>
 
 ## JLink
 
@@ -81,6 +83,8 @@ Try to reproduce the Services scenario discussed above, i.e., as follows:
 Similarly, modulerize the Anagram Game (i.e., the original unmodulerized version of the Anagram Game is in the Samples category of the New Project dialog):
 
 <img src="images/service-2.png"></img>
+<p>Right-click the "module-info.java" in "com.toy.anagrams", choose open, and click "Graph" in the toolbar to visualize the dependencies:</p>
+<img src="images/graph-2.png"></img>
 
 For troubleshooting, the result is here: https://github.com/NetBeansDay/JigsawJavaModularProjectSamples
 
